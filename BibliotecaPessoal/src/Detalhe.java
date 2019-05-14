@@ -56,13 +56,13 @@ public class Detalhe extends javax.swing.JPanel {
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-                {null, null},
-                {null, null},
-                {null, null},
-                {null, null}
+                {null},
+                {null},
+                {null},
+                {null}
             },
             new String [] {
-                "Autor", "Livro"
+                "Autor"
             }
         ));
         jScrollPane1.setViewportView(jTable1);
